@@ -1,0 +1,133 @@
+#header
+  {
+ height:30px;
+ background: #1F211C;
+ background-repeat: no-repeat;
+ background-position: center;
+ font-family:"Dosis sans serif";
+ font-size: 20px;
+ color: white;
+}
+
+nav ul {
+padding: 0px;
+margin: 0px;
+margin-top: 0;
+padding-right: 0px;
+pad
+list-style-type: none;
+background-color: #333333;
+
+
+ }
+
+nav li {
+display: inline-block;
+width: 440px;
+height:40px;
+margin: 0px;
+padding: 0px;
+border-right: 1px solid #CCCCCC;
+text-align: center;
+line-height: 40px;
+
+}
+
+nav li :hover{
+background-color: : #3388BB;
+}
+
+
+
+nav li a {
+display: block;
+text-decoration: none;
+color: #FFFFFF;
+}
+
+
+
+
+.gauche{
+position: relative;
+  width: 320px;
+  height: 450px;
+  margin-left: 5px;
+margin-bottom: 5px;
+margin-right: 5px;
+ top:6px;
+  right: 0px;
+
+border: 2px grey solid;
+
+}
+
+.droite {
+width: 320px;
+height: 450px;
+background-color: white;
+top: 180px;
+right: 5px;
+position: absolute;
+margin: 5px;
+border: 2px grey solid;
+
+}
+
+
+.centre {
+width: 530px;
+height: 450px;
+background-color: white;
+top: 185px;
+right: 400px;
+position: absolute;
+border: 2px grey solid;
+}
+
+.gauche1{
+position: relative;
+  width: 320px;
+  height: 450px;
+  margin-left: 5px;
+margin-bottom: 5px;
+margin-right: 5px;
+ top:6px;
+  right: 0px;
+
+border: 2px grey solid;
+
+}
+
+.droite1 {
+width: 320px;
+height: 450px;
+background-color: white;
+top: 656px;
+right: 5px;
+position: absolute;
+margin: 5px;
+border: 2px grey solid;
+
+}
+
+
+.centre1 {
+width: 530px;
+height: 450px;
+background-color: white;
+top: 661px;
+right: 400px;
+position: absolute;
+border: 2px grey solid;
+}
+
+p, h1, h2 {font-family: 'Dosis', sans-serif;
+color: #454545}
+
+#header3{
+  height:80px;
+  background: #1F211C;
+  text-decoration: none;
+  color: white;
+}
